@@ -89,7 +89,7 @@ def s_recv():
 
 @app.route("/s_send",methods=['POST'])
 def upload_image():
-  chunk_size = 1024
+  chunk_size = 512
   try:
     while 1:
       chunk = request.stream.read(chunk_size)
