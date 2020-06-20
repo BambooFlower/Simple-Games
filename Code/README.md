@@ -6,7 +6,7 @@ MATLAB contains:
 
 Pygame contains:
 
-- Multiplayer game: A backbone system for a multiplayer game
+- Multiplayer game: A backbone system for a multiplayer game. Major contributions by [@chelyabinsk](https://github.com/chelyabinsk)
 - Pong: An implementation of the classic game
 - Snake: An implementation of the classic game 
 
