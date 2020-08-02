@@ -1,3 +1,9 @@
+JavaScript contains: 
+
+- Chess Folder: Collecetion of Chess games with different AI models
+
+<br/><br/>
+
 MATLAB contains:
 
 - XandO.m: An Object oriented implementation of Tic Tac Toe 
