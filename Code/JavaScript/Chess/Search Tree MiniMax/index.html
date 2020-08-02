@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+
+    <!-- Chessboard.js -->
+    <link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css" 
+    integrity="sha384-q94+BZtLrkL1/ohfjR8c6L+A6qzNH9R2hBLwyoAfu3i/WCvQjzL2RQJ3uNHDISdU" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <div id="board" class="board"></div>
+    <div class="info">
+      <span>Positions evaluated: <span id="position-count"></span></span>
+      <br>
+      <span>AI Response Time: <span id="time"></span></span>
+      <br>
+      <br>
+      <span> Move History: </span>
+      <div id="move-history" class="move-history">
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="lib//chess.js"></script>
+
+    <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js" 
+    integrity="sha384-8Vi8VHwn3vjQ9eUHUxex3JSN/NFqUg3QbPyX8kWyb93+8AC/pPWTzj+nHtbC5bxD" 
+    crossorigin="anonymous"></script>
+
+    <script src="sketch.js"></script>
+
+  </body>
+
+</html>
