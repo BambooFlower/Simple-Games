@@ -1,6 +1,6 @@
 JavaScript contains: 
 
-- Chess Folder: Collecetion of Chess games with different AI models
+- Chess Folder: Collection of Chess games with different AI models
 
 <br/><br/>
 
