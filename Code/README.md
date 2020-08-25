@@ -1,6 +1,7 @@
 JavaScript contains: 
 
 - Chess Folder: Collection of Chess games with different AI models
+- 2048 Folder: An implementation of the new classic game 2048
 
 <br/><br/>
 
@@ -12,13 +13,13 @@ MATLAB contains:
 
 Pygame contains:
 
-- Multiplayer game: A backbone system for a multiplayer game. Major contributions by [@chelyabinsk](https://github.com/chelyabinsk)
-- Pong: An implementation of the classic game
-- Snake: An implementation of the classic game 
+- Multiplayer game Folder: A backbone system for a multiplayer game. Major contributions by [@chelyabinsk](https://github.com/chelyabinsk)
+- Pong Folder: An implementation of the classic game Pong
+- Snake Folder: An implementation of the classic game Snake 
 
 <br/><br/>
 
 Unity contains:
 
-- Agar.io: An implentation of the new classic Agar.io
-- Pong: An implementation of the classic game 
+- Agar.io Folder: An implentation of the new classic game Agar.io
+- Pong Folder: An implementation of the classic game Pong
