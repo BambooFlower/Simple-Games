@@ -1,6 +1,6 @@
 The Chess folder contains:
 
-- Simple Tree MiniMax: AI model based on the simple tree Mini-Max algorithm, Alpha-Beta pruning is used to improve performance 
+- Search Tree MiniMax: AI model based on the simple tree Mini-Max algorithm, Alpha-Beta pruning is used to improve performance 
 
 <br></br>
 
