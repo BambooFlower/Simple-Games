@@ -1,10 +1,7 @@
- <a href="https://www.buymeacoffee.com/BambooFlower" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
+Search Tree MiniMax contains: 
 
-# Simple-Games
-A Collection of Simple games 
-
-- MATLAB: Collection of games made using MATLAB 
-- JavaScript: Colletion of games made using JavaScript
-- Pygame: Collection of games made using the pyGame library
-- Unity: Collection of games made using the Unity game engine
-
+- img Folder: Images of chess pieces taken from Wikipedia
+- lib folder: Files required to visualize the chessboard and the pieces
+- index.html: Required to run JavaScript in the Browser
+- sketch.js: AI system based on the Search Tree MiniMax algorithm, Alpha-Beta pruning is used to improve performance
+- styles.css: Required to run JavaScript in the Browser
