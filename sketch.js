@@ -204,7 +204,7 @@ var getBestMove = function (game) {
     positionCount = 0;
     // Change this value to change the search tree depth (ie. AI strengh)
     // The higher the depth the stronger the AI
-    var depth = 3
+    var depth = 5
 
     var d = new Date().getTime();
     var bestMove = minimaxRoot(depth, game, true);
